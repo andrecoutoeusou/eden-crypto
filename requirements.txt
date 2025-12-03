@@ -1,0 +1,18 @@
+# ÉDEN Crypto - Requirements
+# Core dependencies
+numpy>=1.24.0
+sympy>=1.12
+
+# Quantum computing
+qiskit>=1.0.0
+qiskit-aer>=0.13.0
+
+# Cryptography
+pycryptodome>=3.19.0
+
+# Performance
+gmpy2>=2.1.5
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
