@@ -1,0 +1,1 @@
+"""\nÉDEN Crypto - Efficient Decimal-aware Exploration for Numerics\n\nHigh-throughput prime generation and factorization research framework.\n"""\n\n__version__ = '0.1.0'\n__author__ = 'André Couto'\n__license__ = 'Apache 2.0'\n\nfrom eden_crypto.core.dna_numerico import DNANumerico\n\n__all__ = ['DNANumerico', '__version__']
